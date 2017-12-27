@@ -1,5 +1,6 @@
 sudo: required
 dist: trusty
+group: deprecated-2017Q4
 
 script:
   - bash -xve ./test1/travis_ros_install.bash
