@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package format="2">
+<package>
   <name>pimouse_ros</name>
   <version>0.0.0</version>
   <description>The pimouse_ros package</description>
@@ -19,13 +19,13 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/pimouse_ros</url> -->
+  <url type="website">http://github.com/tomokiyasutome/raspimouse_book_info</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
-  <!-- <author email="s144039@edu.hkg.ac.jp">Tomoki Yasutome</author> -->
+  <author email="s144039@edu.hkg.ac.jp">Tomoki Yasutome</author> -->
 
 
   <!-- The *depend tags are used to specify dependencies -->
