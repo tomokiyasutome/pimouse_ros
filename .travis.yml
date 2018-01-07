@@ -1,9 +1,9 @@
-#language: python
+language: python
 sudo: required
 dist: trusty
 group: deprecated-2017Q4
-#before_install:
-#  - sudo apt install python-pip
+before_install:
+  - sudo apt install python-pip
 #  - sudo pip install catkin_pkg
 #  - sudo pip install empy
 #  - sudo pip install pyyaml
